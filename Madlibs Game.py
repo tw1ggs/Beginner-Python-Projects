@@ -1,0 +1,11 @@
+print("GAME")
+Noun = input("Enter a Noun ")
+Plural_Noun = input("Enter a Plural Noun ")
+Verb1 = input("Enter a Verb (Present Tense) ")
+verb2 = input("Enter a verb (Present Tense) ")
+Plural = input("Enter a plural Noun ")
+Adjective = input("Enter an Adjective ")
+Plural_Noun2 = input("Enter 2nd Plural Noun ")
+Adjective2 = input("Enter a Second Adjective ")
+
+print("Today, every student has a computer small enough to fit into his "+Noun+". He can solve any math problem by simply pushing the computer's little "+Plural_Noun+". Computers can add, multiple, divide, and "+Verb1+". They can also "+verb2+" better than a human. Some computers are "+ Plural+". Others have a/an "+Adjective+" screen that shows all kinds of "+Plural_Noun2+" and "+Adjective2+" figures.")
